@@ -1,3 +1,11 @@
+# React Calculator App
+
+This is a simple calculator built with React using the `useReducer` hook for state management. The app allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) both by clicking on the on-screen buttons and by using the keyboard. 
+
+## How to Use:
+- **On-screen input:** Click the buttons to input numbers and perform operations.
+- **Keyboard input:** Use the number keys, operators, and `Enter`, `Backspace`, and `Escape` for a seamless experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
